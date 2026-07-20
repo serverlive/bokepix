@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <!-- Homepage dengan 4 video Videy -->
+  <url>
+    <loc>https://bokepix.com/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://bokepix.com/thumb1.jpg</video:thumbnail_loc>
+      <video:title>Bokep Indo Viral Cantik Dientot Pacar Full HD</video:title>
+      <video:description>Bokep Indo Viral Cantik Dientot Pacar Full HD - nonton gratis di Bokepix.com</video:description>
+      <video:content_loc>https://cdn.videy.co/NInIrxqT1.mp4</video:content_loc>
+      <video:player_loc>https://bokepix.com/</video:player_loc>
+      <video:duration>180</video:duration>
+      <video:publication_date>2026-01-15T10:00:00+07:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://bokepix.com/thumb2.jpg</video:thumbnail_loc>
+      <video:title>Tante Kesepian Sange Berat Minta Crot Di Dalam</video:title>
+      <video:description>Tante Kesepian Sange Berat Minta Crot Di Dalam - Bokepix.com</video:description>
+      <video:content_loc>https://cdn.videy.co/q45WvZXk1.mp4</video:content_loc>
+      <video:player_loc>https://bokepix.com/</video:player_loc>
+      <video:duration>210</video:duration>
+      <video:publication_date>2026-01-14T10:00:00+07:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://bokepix.com/thumb3.jpg</video:thumbnail_loc>
+      <video:title>ABG Indo Manis Mendesah Kenceng Di Hotel</video:title>
+      <video:description>ABG Indo Manis Mendesah Kenceng Di Hotel - streaming HD di Bokepix</video:description>
+      <video:content_loc>https://cdn.videy.co/GmfxVayQ.mp4</video:content_loc>
+      <video:player_loc>https://bokepix.com/</video:player_loc>
+      <video:duration>195</video:duration>
+      <video:publication_date>2026-01-13T10:00:00+07:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://bokepix.com/thumb4.jpg</video:thumbnail_loc>
+      <video:title>Janda Muda Bohay Sange Berat Viral 2026</video:title>
+      <video:description>Janda Muda Bohay Sange Berat Viral 2026 - Bokepix.com update terbaru</video:description>
+      <video:content_loc>https://cdn.videy.co/uOh3LYIg1.mp4</video:content_loc>
+      <video:player_loc>https://bokepix.com/</video:player_loc>
+      <video:duration>240</video:duration>
+      <video:publication_date>2026-01-12T10:00:00+07:00</video:publication_date>
+      <video:family_friendly>no</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>
